@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Configuración de la página
-st.set_page_config(page_title="Mini Sistema Experto Clima", page_icon="🌤️")
+st.set_page_config(page_title="Mini Sistema Experto Clima", page_icon="🌤️☀️⛈️")
 
 st.title("🌤️ Mini Sistema Experto — Clima")
 st.write("Clasificación de condiciones climáticas y alertas de calor.")
